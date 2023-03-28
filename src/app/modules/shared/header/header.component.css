@@ -1,0 +1,27 @@
+.companyTitle{
+    color: var(--primary-color);
+}
+.navbar-toggler {
+    background-color: var(--primary-color);
+}
+
+.navbar{
+    padding-left: 16%;
+    padding-right: 17%;
+    background-color: var(--secondary-color)
+}
+
+@media (max-width: 482px) {
+    .companyTitle{
+        display:none !important;
+    }
+
+}
+
+@media (max-width: 430px) {
+    .navbar{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+}

@@ -1,0 +1,14 @@
+.footer-icon{
+    color: var(--primary-color);
+    margin-right: 8px;
+    font-size: 20px;
+}
+
+.footer-text{
+    color: var(--primary-color);
+    font-size: 20px;
+}
+
+.footer-container{
+    border-top: 2px solid var(--primary-color);
+}
